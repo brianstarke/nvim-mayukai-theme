@@ -68,6 +68,14 @@ M.mirage = {
     bg = "#141925",
     fg = "#b3b1ad",
   },
+  git = {
+    add = "#a6cc70",
+    change = "#77a8d9",
+    delete = "#f27983",
+    conflict = "#ed8274",
+    untracked = "#d96c75",
+    ignored = "#484f5e",
+  },
 }
 
 M.mirage_semantic = {
@@ -210,6 +218,14 @@ M.dark = {
     bg = "#05070c",
     fg = "#b3b1ad",
   },
+  git = {
+    add = "#91b362",
+    change = "#6994bf",
+    delete = "#ea6c73",
+    conflict = "#ea6c73",
+    untracked = "#ea6c73",
+    ignored = "#242831",
+  },
 }
 
 M.darker = {
@@ -279,6 +295,14 @@ M.darker = {
   activity_bar = {
     bg = "#00010a",
     fg = "#b3b1ad",
+  },
+  git = {
+    add = "#91b362",
+    change = "#6994bf",
+    delete = "#ea6c73",
+    conflict = "#ea6c73",
+    untracked = "#f29668",
+    ignored = "#242831",
   },
 }
 
@@ -350,6 +374,14 @@ M.gruvbox = {
     bg = "#1d2021",
     fg = "#ebdbb2",
   },
+  git = {
+    add = "#8ec07c",
+    change = "#83a598",
+    delete = "#b16286",
+    conflict = "#b16286",
+    untracked = "#d79921",
+    ignored = "#484f5e",
+  },
 }
 
 M.mono = {
@@ -419,6 +451,14 @@ M.mono = {
   activity_bar = {
     bg = "#0d131f",
     fg = "#b3b1ad",
+  },
+  git = {
+    add = "#a6cc70",
+    change = "#77a8d9",
+    delete = "#f27983",
+    conflict = "#ed8274",
+    untracked = "#ed9366",
+    ignored = "#484f5e",
   },
 }
 
