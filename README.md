@@ -1,5 +1,7 @@
 # nvim-mayukai
 
+NOTE: Don't actually use this, it was my attempt to use AI to port a color theme and it is not going well.
+
 Dark and yellow bluish mirage theme for Neovim, ported from [Mayukai Theme](https://github.com/GulajavaMinistudio/Mayukai-Theme) for VS Code.
 
 ## Features
