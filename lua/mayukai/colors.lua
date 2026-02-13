@@ -48,6 +48,26 @@ M.mirage = {
   indent_guide_active = "#707a8cb3",
   border = "#373e4c",
   float_border = "#101521",
+  sidebar = {
+    bg = "#191e2a",
+    fg = "#b8b0b0",
+    border = "#191e2a",
+  },
+  statusline = {
+    bg = "#1f2430",
+    fg = "#707a8c",
+    fg_dir = "#b8b0b0",
+  },
+  tabline = {
+    bg = "#1f2430",
+    fg = "#707a8c",
+    fg_sel = "#cbccc6",
+    bg_sel = "#232834",
+  },
+  activity_bar = {
+    bg = "#141925",
+    fg = "#b3b1ad",
+  },
 }
 
 M.mirage_semantic = {
@@ -98,6 +118,26 @@ M.mirage_semantic = {
   indent_guide_active = "#707a8cb3",
   border = "#373e4c",
   float_border = "#101521",
+  sidebar = {
+    bg = "#101521",
+    fg = "#b8b0b0",
+    border = "#101521",
+  },
+  statusline = {
+    bg = "#1f2430",
+    fg = "#707a8c",
+    fg_dir = "#b8b0b0",
+  },
+  tabline = {
+    bg = "#1f2430",
+    fg = "#707a8c",
+    fg_sel = "#edf0f5",
+    bg_sel = "#141824",
+  },
+  activity_bar = {
+    bg = "#0d131f",
+    fg = "#b3b1ad",
+  },
 }
 
 M.mirage_darker = M.mirage_semantic
@@ -150,6 +190,26 @@ M.dark = {
   indent_guide_active = "#3d424db3",
   border = "#191e25",
   float_border = "#000000",
+  sidebar = {
+    bg = "#080c11",
+    fg = "#b8b0b0",
+    border = "#080c11",
+  },
+  statusline = {
+    bg = "#0a0e14",
+    fg = "#3d424d",
+    fg_dir = "#b8b0b0",
+  },
+  tabline = {
+    bg = "#0a0e14",
+    fg = "#3d424d",
+    fg_sel = "#b3b1ad",
+    bg_sel = "#0d1016",
+  },
+  activity_bar = {
+    bg = "#05070c",
+    fg = "#b3b1ad",
+  },
 }
 
 M.darker = {
@@ -200,6 +260,26 @@ M.darker = {
   indent_guide_active = "#3d424db3",
   border = "#191e25",
   float_border = "#000000",
+  sidebar = {
+    bg = "#03080f",
+    fg = "#b8b0b0",
+    border = "#03080f",
+  },
+  statusline = {
+    bg = "#0a0e14",
+    fg = "#3d424d",
+    fg_dir = "#b8b0b0",
+  },
+  tabline = {
+    bg = "#0a0e14",
+    fg = "#3d424d",
+    fg_sel = "#cbccc6",
+    bg_sel = "#080c11",
+  },
+  activity_bar = {
+    bg = "#00010a",
+    fg = "#b3b1ad",
+  },
 }
 
 M.gruvbox = {
@@ -250,6 +330,26 @@ M.gruvbox = {
   indent_guide_active = "#a89984",
   border = "#504945",
   float_border = "#282828",
+  sidebar = {
+    bg = "#1d2021",
+    fg = "#bdae93",
+    border = "#1d2021",
+  },
+  statusline = {
+    bg = "#3c3836",
+    fg = "#a89984",
+    fg_dir = "#bdae93",
+  },
+  tabline = {
+    bg = "#1d2021",
+    fg = "#a89984",
+    fg_sel = "#ebdbb2",
+    bg_sel = "#282828",
+  },
+  activity_bar = {
+    bg = "#1d2021",
+    fg = "#ebdbb2",
+  },
 }
 
 M.mono = {
@@ -300,6 +400,26 @@ M.mono = {
   indent_guide_active = "#707a8cb3",
   border = "#373e4c",
   float_border = "#101521",
+  sidebar = {
+    bg = "#101521",
+    fg = "#b8b0b0",
+    border = "#101521",
+  },
+  statusline = {
+    bg = "#1f2430",
+    fg = "#707a8c",
+    fg_dir = "#b8b0b0",
+  },
+  tabline = {
+    bg = "#1f2430",
+    fg = "#707a8c",
+    fg_sel = "#edf0f5",
+    bg_sel = "#141824",
+  },
+  activity_bar = {
+    bg = "#0d131f",
+    fg = "#b3b1ad",
+  },
 }
 
 M.alucard = M.mono
